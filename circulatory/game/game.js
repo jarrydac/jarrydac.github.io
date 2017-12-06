@@ -214,6 +214,8 @@ const parts = [
                         game_time = 1200;
                         dead = 1200;
                         fault = 0;
+                        time = 60;
+                        hits = goal;
                     }
                 }
                 break;
