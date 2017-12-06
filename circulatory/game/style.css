@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(230,230,230);
+    font-family: sans-serif;
+}
+
+#canvw{
+    display: inline-block;
+    width: 500px;
+    float: left;
+    text-align: center;
+}
+
+#canv{
+    border: 1px solid black;
+}
+
+#info {
+    background-color: rgb(250, 250, 250);
+    margin-left: 510px;
+    min-width: 300px;
+    border-radius: 5px;
+}
+
+#info h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#info p {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
+}
